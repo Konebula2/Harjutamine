@@ -1,1 +1,2 @@
 Saan kasutada Githubi et lisada, hallata ja jägida oma tarkvaraallikakoodi ning teha koostööd teiste arendajatega.
+GitHub Inc asutati 2008. aastal. Selle asutajateks olid Tom Preston-Werner, Chris Wanstrath ja PJ Hyett. GitHubi teenus oli esmakordselt kättesaadav samal aastal, pärast platvormi loomist ja käivitamist.
